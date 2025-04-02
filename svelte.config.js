@@ -15,7 +15,7 @@ const config = {
       '$/*': './src/lib/*'
     },
     adapter: adapter({
-      pages: 'docs'
+      pages: 'dist'
     })
   }
 };
